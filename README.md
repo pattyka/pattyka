@@ -33,7 +33,7 @@ I'm always eager to improve my skills and explore new ideas.
 
 I’m studying software development at a specialized technical high school in Hungary.
 
-My goal is to make enhance my coding skills to the best of my abilities :)
+My goal is to enhance my coding skills to the best of my abilities :)
 
 ---
 
