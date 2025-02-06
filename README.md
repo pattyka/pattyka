@@ -8,7 +8,7 @@ My goal is to design software that makes life easier and promotes sustainability
 
 ## 🚀 Projects
 
-### ⚡ **Ev Cost**
+### ⚡ [**Ev Cost**](github.com/pattyka/ev-cost)
 One of my proudest achievements is **EV Cost**, an EV cost calculator app. It allows users to compare the cost of driving an electric vehicle versus a traditional car while also calculating CO₂ savings in eco-friendly terms.  
 **Features include:**
 - A user friendly cost comparison for for EVs and ICE cars
